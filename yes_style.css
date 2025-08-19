@@ -24,8 +24,13 @@ body {
     height: auto; 
 }
 @media (max-width: 768px) {
-  .header_text {
-    font-size: 2em;
-    text-align: center;
-    padding: 0 10px;
+  .gif_container {
+    max-width: 90%; 
   }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
