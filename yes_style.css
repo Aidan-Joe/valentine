@@ -31,12 +31,8 @@ body {
   }
 
   .gif_container img {
-    max-width: 90%; 
+    max-width: 75%; 
   }
 
-  button {
-    width: 100px; 
-    font-size: 1em;
-  }
 }
 
