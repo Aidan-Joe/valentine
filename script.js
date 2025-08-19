@@ -54,20 +54,20 @@
 })();
 */
 const messages = [
- "Yakin nih?",
-"Beneran yakin??",
-"Pikir lagi deh!",
-"Kesempatan terakhir!",
-"Masa iya nggak?",
-"Nanti nyesel lho!",
-"Coba dipikir lagi!",
-"Yakin banget nih?",
-"Itu bisa jadi kesalahan!",
-"Punya hati dong!",
-"Jangan dingin gitu!",
-"Mau berubah pikiran?",
-"Itu jawaban final kamu?",
-"Kamu bikin hatiku hancur :("
+"Are you sure?", 
+"Really sure??", 
+"Think Again!", 
+"Last Chance!", 
+"Surely not?", 
+"You might regret this!", 
+"Give it another thought!", 
+"Are you absolutely certain?", 
+"This could be a mistake!", 
+"Have a heart!", 
+"Don't be so cold!", 
+"Change of heart?", 
+"Is that your final answer?", 
+"You're breaking my heart :("
 
 ];
 
